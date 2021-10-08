@@ -1,0 +1,29 @@
+.profileDiv {
+  width: 40%;
+  max-height: 50%;
+  border: 1px solid black;
+  position: absolute;
+  top: 30%;
+  left: 33%;
+  padding: 20px;
+  border-radius: 20px;
+}
+
+.header {
+  text-align: center;
+}
+
+.img1 {
+  float: right;
+  margin-left: 20px;
+  margin-right: 30px;
+  height: 200px;
+  width: 150px;
+  border: 1px solid black;
+  margin-top: -42px;
+}
+
+.btn_logout {
+  position: absolute;
+  bottom: 20px;
+}

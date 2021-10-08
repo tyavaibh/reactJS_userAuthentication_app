@@ -1,0 +1,25 @@
+.mainDiv2 {
+  border: 1px solid black;
+  max-width: 30%;
+  padding: 30px;
+  position: absolute;
+  top: 30%;
+  left: 40%;
+  border-radius: 20px;
+}
+
+.inp_user2 {
+  margin-left: 35px;
+}
+
+.inp_pass2 {
+  margin-left: 16px;
+}
+
+.inp_email {
+  margin-left: 40px;
+}
+
+.btn_sign_in2 {
+  margin-left: 88px;
+}

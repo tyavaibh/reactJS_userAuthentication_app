@@ -1,0 +1,49 @@
+.mainDiv {
+  border: 1px solid black;
+  max-width: 30%;
+  padding: 30px;
+  position: absolute;
+  top: 30%;
+  left: 40%;
+  border-radius: 20px;
+}
+
+.inp_user {
+  margin-left: 30px;
+}
+
+.inp_pass {
+  margin-left: 16px;
+}
+
+.btn_sign_in {
+  margin-left: 88px;
+}
+
+.signUpDiv {
+  border: 1px solid black;
+  max-width: 30%;
+  min-width: 20%;
+  padding: 5px;
+  position: absolute;
+  top: 55%;
+  left: 40%;
+  border-radius: 10px;
+}
+
+h3 {
+  display: inline;
+}
+
+.btn_signUp {
+  border: none;
+  background-color: white;
+  color: blue;
+  font-weight: bold;
+  font-size: large;
+  margin-left: 10px;
+}
+
+.header {
+  text-align: center;
+}
